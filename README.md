@@ -3,6 +3,7 @@
 
 ## programs that you use
 * [redreader](https://github.com/QuantumBadger/RedReader)
+* [offline-calendar](https://github.com/SufficientlySecure/offline-calendar)
 
 ## made by people you know
 * [tuya-convert](https://github.com/ct-Open-Source/tuya-convert)
